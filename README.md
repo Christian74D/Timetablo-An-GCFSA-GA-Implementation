@@ -19,3 +19,5 @@ constant & hyperparameter values for execution of ga
 
 
 Encoded actual data available in data directory and simulation data available in simulations directory
+
+Create Folders generated_timetables/student generated_timetables/staff before execution
